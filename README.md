@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PawelJarosiewicz
 - 👀 I'm interested in programming, cycling, watching movies, computer games
-- 🌱 I’m currently learning JavaScript, Java
+- 🌱 I’m currently learning JavaScript, Angular, TypeScript
 - 📫 How to reach me pawlojar@gmail.com
 
 <!---
